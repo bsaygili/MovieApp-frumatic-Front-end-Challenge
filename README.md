@@ -5,6 +5,18 @@ users sign up for the app, you can ask a set of questions from users to get all 
 information needed by the app to understand what kind of movies they like the most. Examples of
 this include genres, directors, actors, and the latest.
 
+Built with:
+* ReactJs
+* React-Redux
+* ReduxSaga
+* Bootstrap5
+* Formik
+* Yup
+* Axios
+* TMDB (The Movie Database)
+* Styled-Components
+* CSS
+
 # Screen shoots
 
 ## Login Page
