@@ -6,16 +6,17 @@ information needed by the app to understand what kind of movies they like the mo
 this include genres, directors, actors, and the latest.
 
 Built with:
-* ReactJs
-* React-Redux
-* ReduxSaga
-* Bootstrap5
-* Formik
-* Yup
-* Axios
-* TMDB (The Movie Database)
-* Styled-Components
-* CSS
+
+- ReactJs
+- React-Redux
+- ReduxSaga
+- Bootstrap5
+- Formik
+- Yup
+- Axios
+- TMDB (The Movie Database)
+- Styled-Components
+- CSS
 
 # Screen shoots
 
@@ -28,6 +29,7 @@ Built with:
 ![m2](https://user-images.githubusercontent.com/25987727/185130063-4ed3fe66-3948-4368-abbe-33f2acfefb83.png)
 
 ## Recommended Movie From Select List
+
 ![m3](https://user-images.githubusercontent.com/25987727/185130085-72012d69-e61d-4dbf-8577-4b51b3b6c371.png)
 
 ## Today's Hit Movies Page
@@ -37,7 +39,6 @@ Built with:
 ## Search with Word
 
 ![m5](https://user-images.githubusercontent.com/25987727/185130125-530b3f35-f4d2-4945-a1a3-4af487eb8c94.png)
-
 
 # Getting Started with Create React App
 
