@@ -1,3 +1,14 @@
+# Description
+
+App that recommends movies to users based on their personal preferences. Whenever
+users sign up for the app, you can ask a set of questions from users to get all the necessary
+information needed by the app to understand what kind of movies they like the most. Examples of
+this include genres, directors, actors, and the latest.
+
+#Screen shoots
+
+## Login Page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
