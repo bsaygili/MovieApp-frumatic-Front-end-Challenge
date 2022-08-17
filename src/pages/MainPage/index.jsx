@@ -77,12 +77,12 @@ function MainPage() {
       <div>
         <div className="container bg-secondary border border-4 rounded-3 d-flex flex-column m-auto p-5">
           {/* User Name */}
-          <h2>Welcome {userName} </h2>
+          <h2 className="text-white">Welcome {userName} </h2>
           {/*Suggest Form Section  */}
           <div className="d-flex flex-row">
             <div className="col mx-3">
               <form>
-                <label htmlFor="genres" className="mb-2">
+                <label htmlFor="genres" className="mb-2 text-white">
                   Genres:
                 </label>
                 <select
@@ -99,7 +99,7 @@ function MainPage() {
                     );
                   })}
                 </select>
-                <label htmlFor="years" className="mb-2 mt-2">
+                <label htmlFor="years" className="mb-2 mt-2 text-white">
                   Release Year:
                 </label>
                 <select
@@ -135,7 +135,7 @@ function MainPage() {
             <div className="col">
               {/* Search Form Section */}
               <form>
-                <label htmlFor="searchArea" className="form-label">
+                <label htmlFor="searchArea" className="form-label text-white">
                   Search Movie:
                 </label>
 
