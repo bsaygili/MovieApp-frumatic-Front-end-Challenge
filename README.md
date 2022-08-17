@@ -5,9 +5,27 @@ users sign up for the app, you can ask a set of questions from users to get all 
 information needed by the app to understand what kind of movies they like the most. Examples of
 this include genres, directors, actors, and the latest.
 
-#Screen shoots
+# Screen shoots
 
 ## Login Page
+
+![fl1](https://user-images.githubusercontent.com/25987727/185130044-193f0dd1-94b7-44b0-ab3b-ee0873a5ced3.png)
+
+## Main Page
+
+![m2](https://user-images.githubusercontent.com/25987727/185130063-4ed3fe66-3948-4368-abbe-33f2acfefb83.png)
+
+## Recommended Movie From Select List
+![m3](https://user-images.githubusercontent.com/25987727/185130085-72012d69-e61d-4dbf-8577-4b51b3b6c371.png)
+
+## Today's Hit Movies Page
+
+![m4](https://user-images.githubusercontent.com/25987727/185130104-c8daf58c-ff13-4c26-9b1a-bd339c45e8c8.png)
+
+## Search with Word
+
+![m5](https://user-images.githubusercontent.com/25987727/185130125-530b3f35-f4d2-4945-a1a3-4af487eb8c94.png)
+
 
 # Getting Started with Create React App
 
