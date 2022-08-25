@@ -7,7 +7,7 @@ this include genres, directors, actors, and the latest.
 
 Username: admin@admin.com
 
-Password:admin123
+Password: 123456
 
 Built with:
 
